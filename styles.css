@@ -1,0 +1,35 @@
+/* main css */
+body {
+    background-color: #293556;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+li a{
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border-radius: 16px;
+}
+
+h2 {
+    color: #9fb7ff;
+}
+
+h3, a:hover {
+    color: #5983FC; 
+}
+
+/* classes and ID */
+.steps-paragraph {
+    text-align: left;
+}
+
