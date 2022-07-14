@@ -20,12 +20,21 @@ img {
     border-radius: 16px;
 }
 
+h1 {
+    font-size: 42px;
+}
+
 h2 {
     color: #9fb7ff;
+    font-size: 32px;
 }
 
 h3, a:hover {
-    color: #5983FC; 
+    color: #5983FC;
+}
+
+h3 {
+    font-size: 20px;
 }
 
 /* classes and ID */
